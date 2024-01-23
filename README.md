@@ -1,2 +1,2 @@
-# github-pages-playground
-Experimenting with Github pages and integrations
+# Github pages playground
+Experimenting with Github pages and integrations.
